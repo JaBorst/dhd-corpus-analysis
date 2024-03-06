@@ -1,0 +1,758 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-03-06">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Sheffield" label="Sheffield" />
+      <node id="Ormskirk" label="Ormskirk" />
+      <node id="Santa Barbara" label="Santa Barbara" />
+      <node id="Cork" label="Cork" />
+      <node id="Rostock" label="Rostock" />
+      <node id="Bochum" label="Bochum" />
+      <node id="Oslo" label="Oslo" />
+      <node id="Frankfurt am Main" label="Frankfurt am Main" />
+      <node id="Potsdam" label="Potsdam" />
+      <node id="Augsburg" label="Augsburg" />
+      <node id="Zagreb" label="Zagreb" />
+      <node id="Antwerpen" label="Antwerpen" />
+      <node id="Kiel" label="Kiel" />
+      <node id="Fairfax" label="Fairfax" />
+      <node id="Cottbus" label="Cottbus" />
+      <node id="Edinburgh" label="Edinburgh" />
+      <node id="Frankfurt" label="Frankfurt" />
+      <node id="Freiburg" label="Freiburg" />
+      <node id="Klagenfurt" label="Klagenfurt" />
+      <node id="Linköping" label="Linköping" />
+      <node id="Mailand" label="Mailand" />
+      <node id="Köln" label="Köln" />
+      <node id="Krems" label="Krems" />
+      <node id="Groningen" label="Groningen" />
+      <node id="Heidelberg" label="Heidelberg" />
+      <node id="Illinois" label="Illinois" />
+      <node id="Duisburg" label="Duisburg" />
+      <node id="Jerusalem" label="Jerusalem" />
+      <node id="Le Mans" label="Le Mans" />
+      <node id="Kassel" label="Kassel" />
+      <node id="Detmold" label="Detmold" />
+      <node id="Basel" label="Basel" />
+      <node id="Eichstätt" label="Eichstätt" />
+      <node id="Delft, Netherlands" label="Delft, Netherlands" />
+      <node id="Verona" label="Verona" />
+      <node id="München" label="München" />
+      <node id="Trier" label="Trier" />
+      <node id="Tübingen" label="Tübingen" />
+      <node id="Lausanne" label="Lausanne" />
+      <node id="Hagen, Germany" label="Hagen, Germany" />
+      <node id="Krakau" label="Krakau" />
+      <node id="Budapest" label="Budapest" />
+      <node id="Washington" label="Washington" />
+      <node id="Berlin" label="Berlin" />
+      <node id="Oxford Uk" label="Oxford Uk" />
+      <node id="Dresden" label="Dresden" />
+      <node id="Hildesheim" label="Hildesheim" />
+      <node id="Innsbruck" label="Innsbruck" />
+      <node id="Athens" label="Athens" />
+      <node id="Weimar" label="Weimar" />
+      <node id="Graz" label="Graz" />
+      <node id="Erfurt" label="Erfurt" />
+      <node id="Göttingen" label="Göttingen" />
+      <node id="Rom" label="Rom" />
+      <node id="Moscow" label="Moscow" />
+      <node id="Karlsruhe" label="Karlsruhe" />
+      <node id="Regensburg" label="Regensburg" />
+      <node id="Sakarya" label="Sakarya" />
+      <node id="Halle-Wittenberg" label="Halle-Wittenberg" />
+      <node id="Düsseldorf" label="Düsseldorf" />
+      <node id="Lyon" label="Lyon" />
+      <node id="Osnabrück" label="Osnabrück" />
+      <node id="Paderborn" label="Paderborn" />
+      <node id="Bergen" label="Bergen" />
+      <node id="Essen" label="Essen" />
+      <node id="Melbourne" label="Melbourne" />
+      <node id="Saarbrücken" label="Saarbrücken" />
+      <node id="Bozen" label="Bozen" />
+      <node id="Amsterdam" label="Amsterdam" />
+      <node id="Wolfenbüttel" label="Wolfenbüttel" />
+      <node id="Jodhpur, Indien" label="Jodhpur, Indien" />
+      <node id="Kaiserslautern" label="Kaiserslautern" />
+      <node id="Oldenburg" label="Oldenburg" />
+      <node id="Erlangen" label="Erlangen" />
+      <node id="Konstanz" label="Konstanz" />
+      <node id="Koblenz" label="Koblenz" />
+      <node id="Salzburg" label="Salzburg" />
+      <node id="Magdeburg" label="Magdeburg" />
+      <node id="Gießen" label="Gießen" />
+      <node id="Lüneburg" label="Lüneburg" />
+      <node id="Stuttgart" label="Stuttgart" />
+      <node id="Uppsala" label="Uppsala" />
+      <node id="Moskau" label="Moskau" />
+      <node id="Milton Keynes" label="Milton Keynes" />
+      <node id="Bielefeld" label="Bielefeld" />
+      <node id="Dortmund" label="Dortmund" />
+      <node id="Marburg" label="Marburg" />
+      <node id="Michigan" label="Michigan" />
+      <node id="Zürich" label="Zürich" />
+      <node id="Mannheim" label="Mannheim" />
+      <node id="Passau" label="Passau" />
+      <node id="Hannover" label="Hannover" />
+      <node id="Jena" label="Jena" />
+      <node id="Aachen" label="Aachen" />
+      <node id="Darmstadt" label="Darmstadt" />
+      <node id="Nürnberg" label="Nürnberg" />
+      <node id="Wuppertal" label="Wuppertal" />
+      <node id="Luzern" label="Luzern" />
+      <node id="Wien" label="Wien" />
+      <node id="Braunschweig" label="Braunschweig" />
+      <node id="Utrecht" label="Utrecht" />
+      <node id="Kopenhagen" label="Kopenhagen" />
+      <node id="Bonn" label="Bonn" />
+      <node id="Beijing" label="Beijing" />
+      <node id="St. Pölten" label="St. Pölten" />
+      <node id="London" label="London" />
+      <node id="Münster" label="Münster" />
+      <node id="Siegen" label="Siegen" />
+      <node id="Mainz" label="Mainz" />
+      <node id="Odense" label="Odense" />
+      <node id="Hamburg" label="Hamburg" />
+      <node id="Bologna" label="Bologna" />
+      <node id="Bremen" label="Bremen" />
+      <node id="Bern" label="Bern" />
+      <node id="Bamberg" label="Bamberg" />
+      <node id="Paris" label="Paris" />
+      <node id="Marbach" label="Marbach" />
+      <node id="Cambridge" label="Cambridge" />
+      <node id="Greifswald" label="Greifswald" />
+      <node id="Leipzig" label="Leipzig" />
+      <node id="St. Gallen" label="St. Gallen" />
+      <node id="Lissabon" label="Lissabon" />
+      <node id="Glasgow" label="Glasgow" />
+      <node id="Würzburg" label="Würzburg" />
+      <node id="Salamanca" label="Salamanca" />
+      <node id="Luxembourg" label="Luxembourg" />
+    </nodes>
+    <edges>
+      <edge source="Sheffield" target="Cork" id="0" weight="1" />
+      <edge source="Sheffield" target="Potsdam" id="1" weight="1" />
+      <edge source="Sheffield" target="Saarbrücken" id="2" weight="1" />
+      <edge source="Sheffield" target="Moskau" id="3" weight="2" />
+      <edge source="Sheffield" target="Wien" id="4" weight="1" />
+      <edge source="Sheffield" target="Glasgow" id="5" weight="1" />
+      <edge source="Ormskirk" target="Milton Keynes" id="6" weight="1" />
+      <edge source="Santa Barbara" target="Mainz" id="7" weight="1" />
+      <edge source="Santa Barbara" target="Paris" id="8" weight="1" />
+      <edge source="Cork" target="Glasgow" id="9" weight="1" />
+      <edge source="Rostock" target="Lausanne" id="10" weight="1" />
+      <edge source="Rostock" target="Berlin" id="11" weight="2" />
+      <edge source="Rostock" target="Graz" id="12" weight="1" />
+      <edge source="Rostock" target="Paderborn" id="13" weight="3" />
+      <edge source="Rostock" target="Zürich" id="14" weight="2" />
+      <edge source="Rostock" target="Wien" id="15" weight="2" />
+      <edge source="Bochum" target="Fairfax" id="16" weight="1" />
+      <edge source="Bochum" target="Linköping" id="17" weight="1" />
+      <edge source="Bochum" target="Köln" id="18" weight="1" />
+      <edge source="Bochum" target="Krems" id="19" weight="1" />
+      <edge source="Bochum" target="Jerusalem" id="20" weight="1" />
+      <edge source="Bochum" target="Trier" id="21" weight="2" />
+      <edge source="Bochum" target="Berlin" id="22" weight="1" />
+      <edge source="Bochum" target="Erfurt" id="23" weight="2" />
+      <edge source="Bochum" target="Karlsruhe" id="24" weight="1" />
+      <edge source="Bochum" target="Düsseldorf" id="25" weight="1" />
+      <edge source="Bochum" target="Essen" id="26" weight="1" />
+      <edge source="Bochum" target="Dortmund" id="27" weight="2" />
+      <edge source="Bochum" target="Bonn" id="28" weight="1" />
+      <edge source="Bochum" target="Mainz" id="29" weight="1" />
+      <edge source="Bochum" target="Hamburg" id="30" weight="1" />
+      <edge source="Bochum" target="Leipzig" id="31" weight="1" />
+      <edge source="Bochum" target="Würzburg" id="32" weight="1" />
+      <edge source="Oslo" target="Berlin" id="33" weight="1" />
+      <edge source="Frankfurt am Main" target="Jena" id="34" weight="1" />
+      <edge source="Potsdam" target="Mailand" id="35" weight="1" />
+      <edge source="Potsdam" target="Köln" id="36" weight="6" />
+      <edge source="Potsdam" target="Krems" id="37" weight="1" />
+      <edge source="Potsdam" target="Basel" id="38" weight="1" />
+      <edge source="Potsdam" target="Eichstätt" id="39" weight="1" />
+      <edge source="Potsdam" target="München" id="40" weight="1" />
+      <edge source="Potsdam" target="Trier" id="41" weight="5" />
+      <edge source="Potsdam" target="Tübingen" id="42" weight="1" />
+      <edge source="Potsdam" target="Hagen, Germany" id="43" weight="1" />
+      <edge source="Potsdam" target="Budapest" id="44" weight="1" />
+      <edge source="Potsdam" target="Berlin" id="45" weight="9" />
+      <edge source="Potsdam" target="Oxford Uk" id="46" weight="1" />
+      <edge source="Potsdam" target="Hildesheim" id="47" weight="1" />
+      <edge source="Potsdam" target="Athens" id="48" weight="1" />
+      <edge source="Potsdam" target="Weimar" id="49" weight="1" />
+      <edge source="Potsdam" target="Graz" id="50" weight="6" />
+      <edge source="Potsdam" target="Göttingen" id="51" weight="3" />
+      <edge source="Potsdam" target="Moscow" id="52" weight="1" />
+      <edge source="Potsdam" target="Regensburg" id="53" weight="2" />
+      <edge source="Potsdam" target="Halle-Wittenberg" id="54" weight="1" />
+      <edge source="Potsdam" target="Düsseldorf" id="55" weight="2" />
+      <edge source="Potsdam" target="Paderborn" id="56" weight="1" />
+      <edge source="Potsdam" target="Essen" id="57" weight="1" />
+      <edge source="Potsdam" target="Wolfenbüttel" id="58" weight="1" />
+      <edge source="Potsdam" target="Lüneburg" id="59" weight="2" />
+      <edge source="Potsdam" target="Stuttgart" id="60" weight="1" />
+      <edge source="Potsdam" target="Moskau" id="61" weight="2" />
+      <edge source="Potsdam" target="Marburg" id="62" weight="1" />
+      <edge source="Potsdam" target="Jena" id="63" weight="1" />
+      <edge source="Potsdam" target="Darmstadt" id="64" weight="4" />
+      <edge source="Potsdam" target="Wuppertal" id="65" weight="1" />
+      <edge source="Potsdam" target="Wien" id="66" weight="2" />
+      <edge source="Potsdam" target="Braunschweig" id="67" weight="1" />
+      <edge source="Potsdam" target="St. Pölten" id="68" weight="1" />
+      <edge source="Potsdam" target="London" id="69" weight="1" />
+      <edge source="Potsdam" target="Mainz" id="70" weight="1" />
+      <edge source="Potsdam" target="Hamburg" id="71" weight="1" />
+      <edge source="Potsdam" target="Bremen" id="72" weight="1" />
+      <edge source="Potsdam" target="Marbach" id="73" weight="1" />
+      <edge source="Potsdam" target="Leipzig" id="74" weight="2" />
+      <edge source="Potsdam" target="Würzburg" id="75" weight="1" />
+      <edge source="Potsdam" target="Luxembourg" id="76" weight="2" />
+      <edge source="Augsburg" target="München" id="77" weight="1" />
+      <edge source="Augsburg" target="Berlin" id="78" weight="1" />
+      <edge source="Augsburg" target="Siegen" id="79" weight="1" />
+      <edge source="Augsburg" target="Würzburg" id="80" weight="1" />
+      <edge source="Zagreb" target="Graz" id="81" weight="1" />
+      <edge source="Zagreb" target="Wien" id="82" weight="1" />
+      <edge source="Antwerpen" target="Köln" id="83" weight="1" />
+      <edge source="Antwerpen" target="Göttingen" id="84" weight="1" />
+      <edge source="Antwerpen" target="Würzburg" id="85" weight="1" />
+      <edge source="Kiel" target="Trier" id="86" weight="1" />
+      <edge source="Kiel" target="Essen" id="87" weight="1" />
+      <edge source="Fairfax" target="Düsseldorf" id="88" weight="1" />
+      <edge source="Cottbus" target="Dresden" id="89" weight="1" />
+      <edge source="Cottbus" target="Würzburg" id="90" weight="1" />
+      <edge source="Edinburgh" target="Darmstadt" id="91" weight="1" />
+      <edge source="Frankfurt" target="Klagenfurt" id="92" weight="1" />
+      <edge source="Frankfurt" target="Berlin" id="93" weight="2" />
+      <edge source="Frankfurt" target="Göttingen" id="94" weight="1" />
+      <edge source="Frankfurt" target="Rom" id="95" weight="1" />
+      <edge source="Frankfurt" target="Paderborn" id="96" weight="1" />
+      <edge source="Frankfurt" target="Jena" id="97" weight="1" />
+      <edge source="Frankfurt" target="Wien" id="98" weight="2" />
+      <edge source="Frankfurt" target="Beijing" id="99" weight="1" />
+      <edge source="Frankfurt" target="Mainz" id="100" weight="1" />
+      <edge source="Frankfurt" target="Paris" id="101" weight="1" />
+      <edge source="Frankfurt" target="Leipzig" id="102" weight="2" />
+      <edge source="Frankfurt" target="Würzburg" id="103" weight="2" />
+      <edge source="Freiburg" target="Zürich" id="104" weight="1" />
+      <edge source="Freiburg" target="Mainz" id="105" weight="1" />
+      <edge source="Freiburg" target="Bern" id="106" weight="1" />
+      <edge source="Linköping" target="Krems" id="107" weight="1" />
+      <edge source="Linköping" target="Berlin" id="108" weight="1" />
+      <edge source="Linköping" target="Erfurt" id="109" weight="1" />
+      <edge source="Mailand" target="Budapest" id="110" weight="1" />
+      <edge source="Mailand" target="Athens" id="111" weight="1" />
+      <edge source="Mailand" target="Mannheim" id="112" weight="1" />
+      <edge source="Mailand" target="London" id="113" weight="1" />
+      <edge source="Köln" target="Heidelberg" id="114" weight="2" />
+      <edge source="Köln" target="Duisburg" id="115" weight="1" />
+      <edge source="Köln" target="Jerusalem" id="116" weight="1" />
+      <edge source="Köln" target="Basel" id="117" weight="1" />
+      <edge source="Köln" target="München" id="118" weight="1" />
+      <edge source="Köln" target="Trier" id="119" weight="4" />
+      <edge source="Köln" target="Tübingen" id="120" weight="1" />
+      <edge source="Köln" target="Hagen, Germany" id="121" weight="1" />
+      <edge source="Köln" target="Washington" id="122" weight="1" />
+      <edge source="Köln" target="Berlin" id="123" weight="3" />
+      <edge source="Köln" target="Dresden" id="124" weight="1" />
+      <edge source="Köln" target="Graz" id="125" weight="5" />
+      <edge source="Köln" target="Göttingen" id="126" weight="1" />
+      <edge source="Köln" target="Rom" id="127" weight="1" />
+      <edge source="Köln" target="Halle-Wittenberg" id="128" weight="1" />
+      <edge source="Köln" target="Düsseldorf" id="129" weight="1" />
+      <edge source="Köln" target="Paderborn" id="130" weight="1" />
+      <edge source="Köln" target="Essen" id="131" weight="1" />
+      <edge source="Köln" target="Amsterdam" id="132" weight="1" />
+      <edge source="Köln" target="Wolfenbüttel" id="133" weight="2" />
+      <edge source="Köln" target="Stuttgart" id="134" weight="9" />
+      <edge source="Köln" target="Bielefeld" id="135" weight="1" />
+      <edge source="Köln" target="Marburg" id="136" weight="2" />
+      <edge source="Köln" target="Mannheim" id="137" weight="3" />
+      <edge source="Köln" target="Darmstadt" id="138" weight="7" />
+      <edge source="Köln" target="Wuppertal" id="139" weight="2" />
+      <edge source="Köln" target="Wien" id="140" weight="4" />
+      <edge source="Köln" target="Braunschweig" id="141" weight="2" />
+      <edge source="Köln" target="Utrecht" id="142" weight="1" />
+      <edge source="Köln" target="Bonn" id="143" weight="1" />
+      <edge source="Köln" target="Münster" id="144" weight="2" />
+      <edge source="Köln" target="Mainz" id="145" weight="2" />
+      <edge source="Köln" target="Hamburg" id="146" weight="3" />
+      <edge source="Köln" target="Bern" id="147" weight="2" />
+      <edge source="Köln" target="Paris" id="148" weight="1" />
+      <edge source="Köln" target="Leipzig" id="149" weight="3" />
+      <edge source="Köln" target="Würzburg" id="150" weight="2" />
+      <edge source="Köln" target="Luxembourg" id="151" weight="1" />
+      <edge source="Krems" target="Berlin" id="152" weight="1" />
+      <edge source="Krems" target="Graz" id="153" weight="1" />
+      <edge source="Krems" target="Erfurt" id="154" weight="1" />
+      <edge source="Krems" target="Stuttgart" id="155" weight="1" />
+      <edge source="Krems" target="Luzern" id="156" weight="1" />
+      <edge source="Krems" target="Wien" id="157" weight="2" />
+      <edge source="Krems" target="Odense" id="158" weight="1" />
+      <edge source="Krems" target="Marbach" id="159" weight="1" />
+      <edge source="Groningen" target="Passau" id="160" weight="1" />
+      <edge source="Heidelberg" target="München" id="161" weight="2" />
+      <edge source="Heidelberg" target="Tübingen" id="162" weight="1" />
+      <edge source="Heidelberg" target="Berlin" id="163" weight="3" />
+      <edge source="Heidelberg" target="Göttingen" id="164" weight="2" />
+      <edge source="Heidelberg" target="Saarbrücken" id="165" weight="2" />
+      <edge source="Heidelberg" target="Stuttgart" id="166" weight="4" />
+      <edge source="Heidelberg" target="Passau" id="167" weight="1" />
+      <edge source="Heidelberg" target="Darmstadt" id="168" weight="1" />
+      <edge source="Heidelberg" target="Bonn" id="169" weight="1" />
+      <edge source="Heidelberg" target="Mainz" id="170" weight="2" />
+      <edge source="Heidelberg" target="Hamburg" id="171" weight="4" />
+      <edge source="Heidelberg" target="Bamberg" id="172" weight="1" />
+      <edge source="Heidelberg" target="Leipzig" id="173" weight="1" />
+      <edge source="Duisburg" target="Tübingen" id="174" weight="1" />
+      <edge source="Duisburg" target="Berlin" id="175" weight="1" />
+      <edge source="Duisburg" target="Göttingen" id="176" weight="2" />
+      <edge source="Duisburg" target="Rom" id="177" weight="1" />
+      <edge source="Duisburg" target="Wolfenbüttel" id="178" weight="1" />
+      <edge source="Duisburg" target="Darmstadt" id="179" weight="2" />
+      <edge source="Duisburg" target="Braunschweig" id="180" weight="1" />
+      <edge source="Duisburg" target="Münster" id="181" weight="1" />
+      <edge source="Duisburg" target="Mainz" id="182" weight="1" />
+      <edge source="Duisburg" target="Hamburg" id="183" weight="1" />
+      <edge source="Jerusalem" target="Berlin" id="184" weight="1" />
+      <edge source="Le Mans" target="Berlin" id="185" weight="3" />
+      <edge source="Le Mans" target="Erlangen" id="186" weight="1" />
+      <edge source="Le Mans" target="Bielefeld" id="187" weight="2" />
+      <edge source="Le Mans" target="Kopenhagen" id="188" weight="1" />
+      <edge source="Le Mans" target="Würzburg" id="189" weight="1" />
+      <edge source="Kassel" target="Berlin" id="190" weight="1" />
+      <edge source="Kassel" target="Gießen" id="191" weight="1" />
+      <edge source="Detmold" target="Berlin" id="192" weight="1" />
+      <edge source="Detmold" target="Dresden" id="193" weight="1" />
+      <edge source="Detmold" target="Innsbruck" id="194" weight="1" />
+      <edge source="Detmold" target="Paderborn" id="195" weight="1" />
+      <edge source="Detmold" target="Erlangen" id="196" weight="1" />
+      <edge source="Detmold" target="Salzburg" id="197" weight="1" />
+      <edge source="Detmold" target="Uppsala" id="198" weight="1" />
+      <edge source="Detmold" target="Bonn" id="199" weight="2" />
+      <edge source="Detmold" target="Leipzig" id="200" weight="1" />
+      <edge source="Basel" target="Verona" id="201" weight="1" />
+      <edge source="Basel" target="Trier" id="202" weight="2" />
+      <edge source="Basel" target="Göttingen" id="203" weight="1" />
+      <edge source="Basel" target="Sakarya" id="204" weight="1" />
+      <edge source="Basel" target="Halle-Wittenberg" id="205" weight="1" />
+      <edge source="Basel" target="Lyon" id="206" weight="1" />
+      <edge source="Basel" target="Bielefeld" id="207" weight="2" />
+      <edge source="Basel" target="Marburg" id="208" weight="1" />
+      <edge source="Basel" target="Darmstadt" id="209" weight="1" />
+      <edge source="Basel" target="Wien" id="210" weight="1" />
+      <edge source="Eichstätt" target="Karlsruhe" id="211" weight="1" />
+      <edge source="Eichstätt" target="Halle-Wittenberg" id="212" weight="1" />
+      <edge source="Eichstätt" target="Stuttgart" id="213" weight="1" />
+      <edge source="Eichstätt" target="Moskau" id="214" weight="1" />
+      <edge source="Eichstätt" target="Würzburg" id="215" weight="1" />
+      <edge source="Delft, Netherlands" target="Luxembourg" id="216" weight="1" />
+      <edge source="München" target="Tübingen" id="217" weight="1" />
+      <edge source="München" target="Hagen, Germany" id="218" weight="1" />
+      <edge source="München" target="Berlin" id="219" weight="4" />
+      <edge source="München" target="Dresden" id="220" weight="1" />
+      <edge source="München" target="Rom" id="221" weight="1" />
+      <edge source="München" target="Regensburg" id="222" weight="2" />
+      <edge source="München" target="Paderborn" id="223" weight="2" />
+      <edge source="München" target="Bergen" id="224" weight="3" />
+      <edge source="München" target="Bielefeld" id="225" weight="1" />
+      <edge source="München" target="Marburg" id="226" weight="2" />
+      <edge source="München" target="Passau" id="227" weight="1" />
+      <edge source="München" target="Hannover" id="228" weight="1" />
+      <edge source="München" target="Jena" id="229" weight="2" />
+      <edge source="München" target="Darmstadt" id="230" weight="2" />
+      <edge source="München" target="Wien" id="231" weight="1" />
+      <edge source="München" target="Siegen" id="232" weight="1" />
+      <edge source="München" target="Mainz" id="233" weight="2" />
+      <edge source="München" target="Hamburg" id="234" weight="1" />
+      <edge source="München" target="Bologna" id="235" weight="1" />
+      <edge source="München" target="Cambridge" id="236" weight="1" />
+      <edge source="München" target="Leipzig" id="237" weight="1" />
+      <edge source="München" target="Würzburg" id="238" weight="1" />
+      <edge source="Trier" target="Lausanne" id="239" weight="1" />
+      <edge source="Trier" target="Washington" id="240" weight="1" />
+      <edge source="Trier" target="Berlin" id="241" weight="4" />
+      <edge source="Trier" target="Innsbruck" id="242" weight="1" />
+      <edge source="Trier" target="Weimar" id="243" weight="1" />
+      <edge source="Trier" target="Graz" id="244" weight="1" />
+      <edge source="Trier" target="Erfurt" id="245" weight="1" />
+      <edge source="Trier" target="Göttingen" id="246" weight="1" />
+      <edge source="Trier" target="Rom" id="247" weight="1" />
+      <edge source="Trier" target="Karlsruhe" id="248" weight="3" />
+      <edge source="Trier" target="Sakarya" id="249" weight="1" />
+      <edge source="Trier" target="Halle-Wittenberg" id="250" weight="3" />
+      <edge source="Trier" target="Essen" id="251" weight="2" />
+      <edge source="Trier" target="Wolfenbüttel" id="252" weight="1" />
+      <edge source="Trier" target="Bielefeld" id="253" weight="1" />
+      <edge source="Trier" target="Marburg" id="254" weight="5" />
+      <edge source="Trier" target="Zürich" id="255" weight="2" />
+      <edge source="Trier" target="Hannover" id="256" weight="1" />
+      <edge source="Trier" target="Darmstadt" id="257" weight="7" />
+      <edge source="Trier" target="Wien" id="258" weight="2" />
+      <edge source="Trier" target="Braunschweig" id="259" weight="1" />
+      <edge source="Trier" target="Kopenhagen" id="260" weight="1" />
+      <edge source="Trier" target="Bonn" id="261" weight="1" />
+      <edge source="Trier" target="Münster" id="262" weight="1" />
+      <edge source="Trier" target="Mainz" id="263" weight="3" />
+      <edge source="Trier" target="Hamburg" id="264" weight="3" />
+      <edge source="Trier" target="Marbach" id="265" weight="1" />
+      <edge source="Trier" target="Lissabon" id="266" weight="1" />
+      <edge source="Trier" target="Würzburg" id="267" weight="1" />
+      <edge source="Trier" target="Luxembourg" id="268" weight="1" />
+      <edge source="Tübingen" target="Berlin" id="269" weight="6" />
+      <edge source="Tübingen" target="Göttingen" id="270" weight="2" />
+      <edge source="Tübingen" target="Essen" id="271" weight="2" />
+      <edge source="Tübingen" target="Saarbrücken" id="272" weight="1" />
+      <edge source="Tübingen" target="Wolfenbüttel" id="273" weight="1" />
+      <edge source="Tübingen" target="Lüneburg" id="274" weight="2" />
+      <edge source="Tübingen" target="Stuttgart" id="275" weight="1" />
+      <edge source="Tübingen" target="Mainz" id="276" weight="1" />
+      <edge source="Tübingen" target="Hamburg" id="277" weight="1" />
+      <edge source="Tübingen" target="Bamberg" id="278" weight="1" />
+      <edge source="Tübingen" target="Leipzig" id="279" weight="1" />
+      <edge source="Lausanne" target="Göttingen" id="280" weight="1" />
+      <edge source="Lausanne" target="Zürich" id="281" weight="1" />
+      <edge source="Lausanne" target="Wien" id="282" weight="1" />
+      <edge source="Lausanne" target="Mainz" id="283" weight="1" />
+      <edge source="Lausanne" target="Luxembourg" id="284" weight="1" />
+      <edge source="Hagen, Germany" target="Berlin" id="285" weight="1" />
+      <edge source="Krakau" target="Würzburg" id="286" weight="1" />
+      <edge source="Budapest" target="Athens" id="287" weight="1" />
+      <edge source="Budapest" target="London" id="288" weight="1" />
+      <edge source="Washington" target="Berlin" id="289" weight="1" />
+      <edge source="Washington" target="Graz" id="290" weight="1" />
+      <edge source="Washington" target="Rom" id="291" weight="1" />
+      <edge source="Washington" target="Stuttgart" id="292" weight="1" />
+      <edge source="Washington" target="Marburg" id="293" weight="1" />
+      <edge source="Washington" target="Darmstadt" id="294" weight="1" />
+      <edge source="Washington" target="Bonn" id="295" weight="1" />
+      <edge source="Washington" target="Paris" id="296" weight="1" />
+      <edge source="Berlin" target="Oxford Uk" id="297" weight="1" />
+      <edge source="Berlin" target="Dresden" id="298" weight="2" />
+      <edge source="Berlin" target="Innsbruck" id="299" weight="2" />
+      <edge source="Berlin" target="Graz" id="300" weight="6" />
+      <edge source="Berlin" target="Erfurt" id="301" weight="1" />
+      <edge source="Berlin" target="Göttingen" id="302" weight="9" />
+      <edge source="Berlin" target="Rom" id="303" weight="3" />
+      <edge source="Berlin" target="Karlsruhe" id="304" weight="5" />
+      <edge source="Berlin" target="Regensburg" id="305" weight="2" />
+      <edge source="Berlin" target="Halle-Wittenberg" id="306" weight="1" />
+      <edge source="Berlin" target="Düsseldorf" id="307" weight="1" />
+      <edge source="Berlin" target="Paderborn" id="308" weight="1" />
+      <edge source="Berlin" target="Bergen" id="309" weight="1" />
+      <edge source="Berlin" target="Essen" id="310" weight="1" />
+      <edge source="Berlin" target="Saarbrücken" id="311" weight="1" />
+      <edge source="Berlin" target="Wolfenbüttel" id="312" weight="7" />
+      <edge source="Berlin" target="Erlangen" id="313" weight="2" />
+      <edge source="Berlin" target="Salzburg" id="314" weight="1" />
+      <edge source="Berlin" target="Gießen" id="315" weight="2" />
+      <edge source="Berlin" target="Stuttgart" id="316" weight="2" />
+      <edge source="Berlin" target="Uppsala" id="317" weight="1" />
+      <edge source="Berlin" target="Moskau" id="318" weight="2" />
+      <edge source="Berlin" target="Bielefeld" id="319" weight="1" />
+      <edge source="Berlin" target="Dortmund" id="320" weight="2" />
+      <edge source="Berlin" target="Marburg" id="321" weight="2" />
+      <edge source="Berlin" target="Zürich" id="322" weight="1" />
+      <edge source="Berlin" target="Mannheim" id="323" weight="1" />
+      <edge source="Berlin" target="Hannover" id="324" weight="1" />
+      <edge source="Berlin" target="Jena" id="325" weight="1" />
+      <edge source="Berlin" target="Darmstadt" id="326" weight="6" />
+      <edge source="Berlin" target="Wien" id="327" weight="1" />
+      <edge source="Berlin" target="Braunschweig" id="328" weight="2" />
+      <edge source="Berlin" target="Kopenhagen" id="329" weight="1" />
+      <edge source="Berlin" target="Bonn" id="330" weight="2" />
+      <edge source="Berlin" target="St. Pölten" id="331" weight="1" />
+      <edge source="Berlin" target="Münster" id="332" weight="2" />
+      <edge source="Berlin" target="Siegen" id="333" weight="1" />
+      <edge source="Berlin" target="Mainz" id="334" weight="9" />
+      <edge source="Berlin" target="Hamburg" id="335" weight="1" />
+      <edge source="Berlin" target="Bamberg" id="336" weight="1" />
+      <edge source="Berlin" target="Paris" id="337" weight="1" />
+      <edge source="Berlin" target="Leipzig" id="338" weight="7" />
+      <edge source="Berlin" target="Würzburg" id="339" weight="4" />
+      <edge source="Berlin" target="Luxembourg" id="340" weight="1" />
+      <edge source="Dresden" target="Innsbruck" id="341" weight="1" />
+      <edge source="Dresden" target="Halle-Wittenberg" id="342" weight="3" />
+      <edge source="Dresden" target="Düsseldorf" id="343" weight="1" />
+      <edge source="Dresden" target="Paderborn" id="344" weight="1" />
+      <edge source="Dresden" target="Erlangen" id="345" weight="1" />
+      <edge source="Dresden" target="Salzburg" id="346" weight="1" />
+      <edge source="Dresden" target="Uppsala" id="347" weight="1" />
+      <edge source="Dresden" target="Marburg" id="348" weight="4" />
+      <edge source="Dresden" target="Hannover" id="349" weight="1" />
+      <edge source="Dresden" target="Jena" id="350" weight="1" />
+      <edge source="Dresden" target="Darmstadt" id="351" weight="4" />
+      <edge source="Dresden" target="Bonn" id="352" weight="1" />
+      <edge source="Dresden" target="Greifswald" id="353" weight="1" />
+      <edge source="Dresden" target="Leipzig" id="354" weight="4" />
+      <edge source="Dresden" target="Würzburg" id="355" weight="6" />
+      <edge source="Hildesheim" target="Stuttgart" id="356" weight="1" />
+      <edge source="Hildesheim" target="Darmstadt" id="357" weight="1" />
+      <edge source="Hildesheim" target="Leipzig" id="358" weight="1" />
+      <edge source="Innsbruck" target="Erlangen" id="359" weight="1" />
+      <edge source="Innsbruck" target="Salzburg" id="360" weight="2" />
+      <edge source="Innsbruck" target="Uppsala" id="361" weight="1" />
+      <edge source="Innsbruck" target="Marburg" id="362" weight="2" />
+      <edge source="Innsbruck" target="Zürich" id="363" weight="2" />
+      <edge source="Innsbruck" target="Hannover" id="364" weight="2" />
+      <edge source="Innsbruck" target="Bonn" id="365" weight="1" />
+      <edge source="Innsbruck" target="Bremen" id="366" weight="1" />
+      <edge source="Innsbruck" target="Leipzig" id="367" weight="1" />
+      <edge source="Athens" target="London" id="368" weight="1" />
+      <edge source="Weimar" target="Göttingen" id="369" weight="1" />
+      <edge source="Weimar" target="Wolfenbüttel" id="370" weight="4" />
+      <edge source="Weimar" target="Wien" id="371" weight="1" />
+      <edge source="Weimar" target="Bonn" id="372" weight="1" />
+      <edge source="Weimar" target="Münster" id="373" weight="1" />
+      <edge source="Weimar" target="Hamburg" id="374" weight="1" />
+      <edge source="Weimar" target="Bamberg" id="375" weight="1" />
+      <edge source="Weimar" target="Marbach" id="376" weight="3" />
+      <edge source="Graz" target="Erfurt" id="377" weight="1" />
+      <edge source="Graz" target="Göttingen" id="378" weight="1" />
+      <edge source="Graz" target="Regensburg" id="379" weight="1" />
+      <edge source="Graz" target="Wolfenbüttel" id="380" weight="2" />
+      <edge source="Graz" target="Magdeburg" id="381" weight="1" />
+      <edge source="Graz" target="Moskau" id="382" weight="3" />
+      <edge source="Graz" target="Marburg" id="383" weight="1" />
+      <edge source="Graz" target="Mannheim" id="384" weight="1" />
+      <edge source="Graz" target="Darmstadt" id="385" weight="5" />
+      <edge source="Graz" target="Wuppertal" id="386" weight="1" />
+      <edge source="Graz" target="Luzern" id="387" weight="1" />
+      <edge source="Graz" target="Wien" id="388" weight="1" />
+      <edge source="Graz" target="Braunschweig" id="389" weight="1" />
+      <edge source="Graz" target="Bonn" id="390" weight="1" />
+      <edge source="Graz" target="Mainz" id="391" weight="1" />
+      <edge source="Graz" target="Hamburg" id="392" weight="1" />
+      <edge source="Graz" target="Paris" id="393" weight="1" />
+      <edge source="Graz" target="Marbach" id="394" weight="1" />
+      <edge source="Graz" target="Leipzig" id="395" weight="1" />
+      <edge source="Erfurt" target="Essen" id="396" weight="1" />
+      <edge source="Erfurt" target="Magdeburg" id="397" weight="1" />
+      <edge source="Erfurt" target="Milton Keynes" id="398" weight="1" />
+      <edge source="Erfurt" target="Bonn" id="399" weight="1" />
+      <edge source="Erfurt" target="Mainz" id="400" weight="1" />
+      <edge source="Erfurt" target="Hamburg" id="401" weight="1" />
+      <edge source="Erfurt" target="Leipzig" id="402" weight="1" />
+      <edge source="Göttingen" target="Rom" id="403" weight="1" />
+      <edge source="Göttingen" target="Halle-Wittenberg" id="404" weight="2" />
+      <edge source="Göttingen" target="Essen" id="405" weight="3" />
+      <edge source="Göttingen" target="Melbourne" id="406" weight="1" />
+      <edge source="Göttingen" target="Saarbrücken" id="407" weight="1" />
+      <edge source="Göttingen" target="Wolfenbüttel" id="408" weight="7" />
+      <edge source="Göttingen" target="Moskau" id="409" weight="2" />
+      <edge source="Göttingen" target="Zürich" id="410" weight="1" />
+      <edge source="Göttingen" target="Mannheim" id="411" weight="1" />
+      <edge source="Göttingen" target="Hannover" id="412" weight="1" />
+      <edge source="Göttingen" target="Darmstadt" id="413" weight="4" />
+      <edge source="Göttingen" target="Wuppertal" id="414" weight="1" />
+      <edge source="Göttingen" target="Wien" id="415" weight="2" />
+      <edge source="Göttingen" target="Braunschweig" id="416" weight="1" />
+      <edge source="Göttingen" target="Bonn" id="417" weight="1" />
+      <edge source="Göttingen" target="Münster" id="418" weight="2" />
+      <edge source="Göttingen" target="Mainz" id="419" weight="5" />
+      <edge source="Göttingen" target="Hamburg" id="420" weight="2" />
+      <edge source="Göttingen" target="Bamberg" id="421" weight="1" />
+      <edge source="Göttingen" target="Paris" id="422" weight="1" />
+      <edge source="Göttingen" target="Leipzig" id="423" weight="2" />
+      <edge source="Göttingen" target="Würzburg" id="424" weight="2" />
+      <edge source="Rom" target="Wolfenbüttel" id="425" weight="1" />
+      <edge source="Rom" target="Erlangen" id="426" weight="2" />
+      <edge source="Rom" target="Marburg" id="427" weight="1" />
+      <edge source="Rom" target="Jena" id="428" weight="1" />
+      <edge source="Rom" target="Darmstadt" id="429" weight="1" />
+      <edge source="Rom" target="Wien" id="430" weight="1" />
+      <edge source="Rom" target="Kopenhagen" id="431" weight="1" />
+      <edge source="Rom" target="Bonn" id="432" weight="1" />
+      <edge source="Rom" target="Mainz" id="433" weight="1" />
+      <edge source="Rom" target="Paris" id="434" weight="1" />
+      <edge source="Rom" target="Lissabon" id="435" weight="1" />
+      <edge source="Karlsruhe" target="Wolfenbüttel" id="436" weight="1" />
+      <edge source="Karlsruhe" target="Stuttgart" id="437" weight="1" />
+      <edge source="Karlsruhe" target="Marburg" id="438" weight="1" />
+      <edge source="Karlsruhe" target="Darmstadt" id="439" weight="2" />
+      <edge source="Karlsruhe" target="Nürnberg" id="440" weight="1" />
+      <edge source="Karlsruhe" target="Mainz" id="441" weight="1" />
+      <edge source="Regensburg" target="Moskau" id="442" weight="1" />
+      <edge source="Regensburg" target="St. Pölten" id="443" weight="1" />
+      <edge source="Regensburg" target="Leipzig" id="444" weight="3" />
+      <edge source="Regensburg" target="Würzburg" id="445" weight="3" />
+      <edge source="Regensburg" target="Luxembourg" id="446" weight="1" />
+      <edge source="Sakarya" target="Bielefeld" id="447" weight="1" />
+      <edge source="Sakarya" target="Marburg" id="448" weight="1" />
+      <edge source="Sakarya" target="Darmstadt" id="449" weight="1" />
+      <edge source="Halle-Wittenberg" target="Marburg" id="450" weight="1" />
+      <edge source="Halle-Wittenberg" target="Jena" id="451" weight="1" />
+      <edge source="Halle-Wittenberg" target="Wien" id="452" weight="1" />
+      <edge source="Halle-Wittenberg" target="Bonn" id="453" weight="1" />
+      <edge source="Halle-Wittenberg" target="Siegen" id="454" weight="1" />
+      <edge source="Halle-Wittenberg" target="Marbach" id="455" weight="1" />
+      <edge source="Halle-Wittenberg" target="Leipzig" id="456" weight="2" />
+      <edge source="Halle-Wittenberg" target="Würzburg" id="457" weight="1" />
+      <edge source="Düsseldorf" target="Paderborn" id="458" weight="1" />
+      <edge source="Düsseldorf" target="Leipzig" id="459" weight="1" />
+      <edge source="Paderborn" target="Essen" id="460" weight="1" />
+      <edge source="Paderborn" target="Erlangen" id="461" weight="1" />
+      <edge source="Paderborn" target="Hannover" id="462" weight="1" />
+      <edge source="Paderborn" target="Leipzig" id="463" weight="1" />
+      <edge source="Bergen" target="Wien" id="464" weight="1" />
+      <edge source="Essen" target="Gießen" id="465" weight="1" />
+      <edge source="Essen" target="Lüneburg" id="466" weight="2" />
+      <edge source="Essen" target="Darmstadt" id="467" weight="2" />
+      <edge source="Essen" target="Braunschweig" id="468" weight="2" />
+      <edge source="Essen" target="Bonn" id="469" weight="2" />
+      <edge source="Essen" target="Mainz" id="470" weight="2" />
+      <edge source="Essen" target="Bamberg" id="471" weight="1" />
+      <edge source="Essen" target="Leipzig" id="472" weight="2" />
+      <edge source="Melbourne" target="Bonn" id="473" weight="1" />
+      <edge source="Saarbrücken" target="Stuttgart" id="474" weight="1" />
+      <edge source="Saarbrücken" target="Moskau" id="475" weight="1" />
+      <edge source="Saarbrücken" target="Mannheim" id="476" weight="1" />
+      <edge source="Saarbrücken" target="Wien" id="477" weight="1" />
+      <edge source="Saarbrücken" target="Mainz" id="478" weight="2" />
+      <edge source="Saarbrücken" target="Hamburg" id="479" weight="2" />
+      <edge source="Saarbrücken" target="Bamberg" id="480" weight="1" />
+      <edge source="Saarbrücken" target="Leipzig" id="481" weight="1" />
+      <edge source="Amsterdam" target="Wolfenbüttel" id="482" weight="1" />
+      <edge source="Amsterdam" target="Wuppertal" id="483" weight="1" />
+      <edge source="Amsterdam" target="Utrecht" id="484" weight="1" />
+      <edge source="Wolfenbüttel" target="Moskau" id="485" weight="1" />
+      <edge source="Wolfenbüttel" target="Darmstadt" id="486" weight="1" />
+      <edge source="Wolfenbüttel" target="Wuppertal" id="487" weight="1" />
+      <edge source="Wolfenbüttel" target="Wien" id="488" weight="4" />
+      <edge source="Wolfenbüttel" target="Braunschweig" id="489" weight="1" />
+      <edge source="Wolfenbüttel" target="Utrecht" id="490" weight="1" />
+      <edge source="Wolfenbüttel" target="Bonn" id="491" weight="4" />
+      <edge source="Wolfenbüttel" target="Münster" id="492" weight="1" />
+      <edge source="Wolfenbüttel" target="Mainz" id="493" weight="1" />
+      <edge source="Wolfenbüttel" target="Hamburg" id="494" weight="1" />
+      <edge source="Wolfenbüttel" target="Bamberg" id="495" weight="1" />
+      <edge source="Wolfenbüttel" target="Paris" id="496" weight="1" />
+      <edge source="Wolfenbüttel" target="Marbach" id="497" weight="1" />
+      <edge source="Wolfenbüttel" target="Leipzig" id="498" weight="1" />
+      <edge source="Wolfenbüttel" target="Würzburg" id="499" weight="1" />
+      <edge source="Erlangen" target="Salzburg" id="500" weight="1" />
+      <edge source="Erlangen" target="Lüneburg" id="501" weight="1" />
+      <edge source="Erlangen" target="Uppsala" id="502" weight="1" />
+      <edge source="Erlangen" target="Nürnberg" id="503" weight="2" />
+      <edge source="Erlangen" target="Kopenhagen" id="504" weight="1" />
+      <edge source="Erlangen" target="Bonn" id="505" weight="1" />
+      <edge source="Erlangen" target="Mainz" id="506" weight="3" />
+      <edge source="Erlangen" target="Bamberg" id="507" weight="1" />
+      <edge source="Erlangen" target="Leipzig" id="508" weight="2" />
+      <edge source="Erlangen" target="Würzburg" id="509" weight="2" />
+      <edge source="Konstanz" target="Hamburg" id="510" weight="1" />
+      <edge source="Konstanz" target="Leipzig" id="511" weight="1" />
+      <edge source="Koblenz" target="Darmstadt" id="512" weight="1" />
+      <edge source="Salzburg" target="Uppsala" id="513" weight="1" />
+      <edge source="Salzburg" target="Passau" id="514" weight="1" />
+      <edge source="Salzburg" target="Bonn" id="515" weight="1" />
+      <edge source="Salzburg" target="Leipzig" id="516" weight="1" />
+      <edge source="Magdeburg" target="Leipzig" id="517" weight="1" />
+      <edge source="Gießen" target="Braunschweig" id="518" weight="1" />
+      <edge source="Gießen" target="Leipzig" id="519" weight="1" />
+      <edge source="Lüneburg" target="Bamberg" id="520" weight="1" />
+      <edge source="Lüneburg" target="Leipzig" id="521" weight="1" />
+      <edge source="Stuttgart" target="Moskau" id="522" weight="2" />
+      <edge source="Stuttgart" target="Darmstadt" id="523" weight="3" />
+      <edge source="Stuttgart" target="Wien" id="524" weight="1" />
+      <edge source="Stuttgart" target="Mainz" id="525" weight="1" />
+      <edge source="Stuttgart" target="Hamburg" id="526" weight="1" />
+      <edge source="Stuttgart" target="Marbach" id="527" weight="4" />
+      <edge source="Stuttgart" target="Würzburg" id="528" weight="2" />
+      <edge source="Uppsala" target="Bonn" id="529" weight="1" />
+      <edge source="Uppsala" target="Leipzig" id="530" weight="1" />
+      <edge source="Moskau" target="Wien" id="531" weight="4" />
+      <edge source="Moskau" target="Hamburg" id="532" weight="1" />
+      <edge source="Moskau" target="Würzburg" id="533" weight="1" />
+      <edge source="Bielefeld" target="Marburg" id="534" weight="1" />
+      <edge source="Bielefeld" target="Jena" id="535" weight="1" />
+      <edge source="Bielefeld" target="Darmstadt" id="536" weight="1" />
+      <edge source="Bielefeld" target="Münster" id="537" weight="1" />
+      <edge source="Bielefeld" target="Mainz" id="538" weight="1" />
+      <edge source="Bielefeld" target="Leipzig" id="539" weight="1" />
+      <edge source="Bielefeld" target="Würzburg" id="540" weight="2" />
+      <edge source="Dortmund" target="Mannheim" id="541" weight="1" />
+      <edge source="Marburg" target="Zürich" id="542" weight="2" />
+      <edge source="Marburg" target="Hannover" id="543" weight="3" />
+      <edge source="Marburg" target="Darmstadt" id="544" weight="6" />
+      <edge source="Marburg" target="Nürnberg" id="545" weight="1" />
+      <edge source="Marburg" target="Bremen" id="546" weight="1" />
+      <edge source="Marburg" target="Leipzig" id="547" weight="1" />
+      <edge source="Marburg" target="Würzburg" id="548" weight="1" />
+      <edge source="Michigan" target="Leipzig" id="549" weight="1" />
+      <edge source="Zürich" target="Passau" id="550" weight="1" />
+      <edge source="Zürich" target="Hannover" id="551" weight="2" />
+      <edge source="Zürich" target="Wien" id="552" weight="1" />
+      <edge source="Zürich" target="Münster" id="553" weight="1" />
+      <edge source="Zürich" target="Mainz" id="554" weight="1" />
+      <edge source="Zürich" target="Bremen" id="555" weight="1" />
+      <edge source="Zürich" target="Bern" id="556" weight="1" />
+      <edge source="Zürich" target="Luxembourg" id="557" weight="1" />
+      <edge source="Mannheim" target="Wien" id="558" weight="1" />
+      <edge source="Mannheim" target="Münster" id="559" weight="2" />
+      <edge source="Mannheim" target="Hamburg" id="560" weight="2" />
+      <edge source="Mannheim" target="Bamberg" id="561" weight="1" />
+      <edge source="Mannheim" target="Leipzig" id="562" weight="1" />
+      <edge source="Mannheim" target="Würzburg" id="563" weight="1" />
+      <edge source="Passau" target="Darmstadt" id="564" weight="1" />
+      <edge source="Passau" target="Wien" id="565" weight="1" />
+      <edge source="Passau" target="Hamburg" id="566" weight="1" />
+      <edge source="Passau" target="Leipzig" id="567" weight="1" />
+      <edge source="Passau" target="St. Gallen" id="568" weight="2" />
+      <edge source="Hannover" target="Darmstadt" id="569" weight="1" />
+      <edge source="Hannover" target="Bonn" id="570" weight="1" />
+      <edge source="Hannover" target="Hamburg" id="571" weight="1" />
+      <edge source="Hannover" target="Bremen" id="572" weight="1" />
+      <edge source="Jena" target="Hamburg" id="573" weight="1" />
+      <edge source="Jena" target="Leipzig" id="574" weight="3" />
+      <edge source="Jena" target="Würzburg" id="575" weight="2" />
+      <edge source="Darmstadt" target="Wuppertal" id="576" weight="1" />
+      <edge source="Darmstadt" target="Braunschweig" id="577" weight="2" />
+      <edge source="Darmstadt" target="Münster" id="578" weight="1" />
+      <edge source="Darmstadt" target="Mainz" id="579" weight="4" />
+      <edge source="Darmstadt" target="Hamburg" id="580" weight="6" />
+      <edge source="Darmstadt" target="Leipzig" id="581" weight="2" />
+      <edge source="Darmstadt" target="Würzburg" id="582" weight="2" />
+      <edge source="Wuppertal" target="Utrecht" id="583" weight="1" />
+      <edge source="Wuppertal" target="Hamburg" id="584" weight="1" />
+      <edge source="Luzern" target="Marbach" id="585" weight="1" />
+      <edge source="Wien" target="Kopenhagen" id="586" weight="1" />
+      <edge source="Wien" target="Bonn" id="587" weight="3" />
+      <edge source="Wien" target="Beijing" id="588" weight="1" />
+      <edge source="Wien" target="Hamburg" id="589" weight="2" />
+      <edge source="Wien" target="Bamberg" id="590" weight="1" />
+      <edge source="Wien" target="Paris" id="591" weight="1" />
+      <edge source="Wien" target="Marbach" id="592" weight="1" />
+      <edge source="Wien" target="Leipzig" id="593" weight="1" />
+      <edge source="Wien" target="Lissabon" id="594" weight="1" />
+      <edge source="Wien" target="Salamanca" id="595" weight="2" />
+      <edge source="Braunschweig" target="Münster" id="596" weight="1" />
+      <edge source="Braunschweig" target="Leipzig" id="597" weight="2" />
+      <edge source="Braunschweig" target="Luxembourg" id="598" weight="1" />
+      <edge source="Kopenhagen" target="Lissabon" id="599" weight="1" />
+      <edge source="Bonn" target="Mainz" id="600" weight="1" />
+      <edge source="Bonn" target="Paris" id="601" weight="1" />
+      <edge source="Bonn" target="Marbach" id="602" weight="1" />
+      <edge source="Bonn" target="Leipzig" id="603" weight="1" />
+      <edge source="St. Pölten" target="Luxembourg" id="604" weight="1" />
+      <edge source="Münster" target="Mainz" id="605" weight="1" />
+      <edge source="Münster" target="Hamburg" id="606" weight="1" />
+      <edge source="Münster" target="Leipzig" id="607" weight="1" />
+      <edge source="Siegen" target="Würzburg" id="608" weight="3" />
+      <edge source="Mainz" target="Hamburg" id="609" weight="1" />
+      <edge source="Mainz" target="Bamberg" id="610" weight="1" />
+      <edge source="Mainz" target="Paris" id="611" weight="2" />
+      <edge source="Mainz" target="Leipzig" id="612" weight="4" />
+      <edge source="Hamburg" target="Leipzig" id="613" weight="3" />
+      <edge source="Hamburg" target="Würzburg" id="614" weight="3" />
+      <edge source="Bremen" target="Leipzig" id="615" weight="1" />
+      <edge source="Bamberg" target="Leipzig" id="616" weight="1" />
+      <edge source="Paris" target="Leipzig" id="617" weight="1" />
+      <edge source="Leipzig" target="Würzburg" id="618" weight="1" />
+      <edge source="Leipzig" target="Luxembourg" id="619" weight="2" />
+    </edges>
+  </graph>
+</gexf>

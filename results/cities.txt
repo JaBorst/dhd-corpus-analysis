@@ -1,0 +1,158 @@
+Stuttgart
+Halle-Wittenberg
+Trier
+Hamburg
+Regensburg
+Konstanz
+Frankfurt
+Potsdam
+Berlin
+Bergen
+Duisburg-Essen:Duisburg
+Mannheim
+Erlangen-Nürnberg:Erlangen
+München
+Leipzig
+Passau
+Aachen
+Salzburg
+Hildesheim
+Detmold
+Paderborn
+Tübingen
+Göttingen
+Marburg
+Bamberg
+Köln
+Cologne:Köln
+Graz
+Würzburg
+Heidelberg
+Darmstadt
+Wuppertal
+Luxembourg
+Kraków:Krakau
+Edinburgh
+Utrecht
+Delft:Delft, Netherlands
+Luxemburg:Luxembourg
+Københavns:Kopenhagen
+Kobenhavns:Kopenhagen
+Kassel
+Gießen
+Moscow
+Essen
+Innsbruck
+Cottbus-Senftenberg:Cottbus
+Siegen
+Wien
+Krems
+Saarbrücken
+Erlangen
+Braunschweig
+Jena
+Wolfenbüttel
+Erfurt
+Bochum
+Mainz
+Zürich
+Zurich:Zürich
+Rostock
+Basel
+Rom
+Michigan
+Nürnberg
+Düsseldorf
+Bern
+Dresden
+Moskau
+Cambridge
+Amsterdam
+Antwerpen
+Bielefeld
+Bonn
+Roma
+Salamanca
+Dortmund
+Karlsruhe
+Marbach
+Münster
+Paris
+Santa Barbara
+Cork
+Hannover
+Hagen:Hagen, Germany
+Linköping
+Kiel
+Bremen
+Washington
+Milan:Mailand
+Athens
+Oldenburg
+Koblenz
+Jerusalem
+Lyon
+Lüneburg
+Weimar
+Le Mans
+Sheffield
+Glasgow
+Bozen
+Sakarya
+Luzern
+Magdeburg
+Lausanne
+Zagreb
+St. Gallen
+Sankt Gallen:St. Gallen
+Jodhpur, Indien
+Mailand
+Greifswald
+Augsburg
+Oxford:Oxford Uk
+Oslo
+Melbourne
+St. Pölten
+Kaiserslautern
+Munich:München
+Muenchen:München
+Ludwig-Maximilians-Universität:München
+Verona
+Osnabrück
+Klagenfurt
+Illinois
+Eichstätt
+Uppsala
+Beijing
+Bologna
+Vienna:Wien
+Halle (Saale):Halle
+Halle/Wittenberg:Halle-Wittenberg
+Lisboa:Lissabon
+Tuebingen:Tübingen
+Universität des Saarlandes:Saarbrücken
+Campus Condorcet:Paris
+Freiburg
+Groningen
+fribourg:Freiburg
+Steinheim-Institut:Essen
+Austrian Centre for Digital Humanities and Cultural Heritage:Wien
+George Mason University:Fairfax
+King’s College London:London
+Eötvös Loránd University:Budapest
+Julius-Maximilians-Universität:Würzburg
+Wuerzburg:Würzburg
+Österreichische Nationabibliothek:Wien
+Leibniz-Institut für Bildungsmedien | Georg Eckert-Institut, Deutschland:Braunschweig
+Österreichische Akademie der Wissenschaften:Wien
+Deutsches Biomasseforschungszentrum:Leipzig
+The open University:Milton Keynes
+Edge Hill University:Ormskirk
+University of Southern Denmark:Odense
+Leibniz-Institut für Bildungsforschung und Bildungsinformation:Frankfurt am Main
+Leibniz-Institut für Deutsche Sprache:Mannheim
+Max Weber Stiftung:Bonn
+Center of Music and Film Informatics:Detmold
+Österreichische Nationalbibliothek:Wien
+Max Planck Institut for Legal History and Legal Theory:Frankfurt
+Universitätsbibliothek Johann Christian Senckenberg:Frankfurt

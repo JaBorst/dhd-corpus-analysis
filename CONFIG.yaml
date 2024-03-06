@@ -1,0 +1,73 @@
+DHd-Abstracts-2014:
+  url: https://github.com/DHd-Verband/DHd-Abstracts-2014
+  meta:
+    - DHd2014_final.xml
+  files: PDF-files
+  package:
+    - package_DHd2014.csv
+
+DHd-Abstracts-2015:
+  url: https://github.com/DHd-Verband/DHd-Abstracts-2015
+  meta:
+    - DHd2015_final.xml
+  files: PDF-files
+  package:
+    - package_DHd2015.csv
+
+
+
+DHd-Abstracts-2016:
+  url: https://github.com/DHd-Verband/DHd-Abstracts-2016
+  meta:
+    - DHd2016_final.xml
+  files: XML-files
+  package:
+    - package_DHd2016.csv
+
+DHd-Abstracts-2017:
+  url: https://github.com/DHd-Verband/DHd-Abstracts-2017
+  meta:
+    - DHd2017_final.xml
+  files: XML-files
+  package:
+    - package_DHd2017.csv
+
+DHd-Abstracts-2018:
+  url: https://github.com/DHd-Verband/DHd-Abstracts-2018
+  meta:
+    - DHd2018_final.xml
+  files: XML-files
+  package:
+    - package_DHd2018.csv
+
+DHd-Abstracts-2019:
+  url: https://github.com/DHd-Verband/DHd-Abstracts-2019
+  meta:
+    - DHd2019_final.xml
+  files: XML-files
+  package:
+    - package_DHd2019.csv
+
+DHd-Abstracts-2020:
+  url: https://github.com/DHd-Verband/DHd-Abstracts-2020
+  meta:
+    - DHd2020_final.xml
+  files: XML-files
+
+DHd-Abstracts-2022:
+  url: https://github.com/DHd-Verband/DHd-Abstracts-2022
+  meta:
+    - DHd2022_final.xml
+#    - DHd2022_poster_final.xml
+  files: XML-Files
+  package:
+    - package_DHd2022.csv
+#    - package_poster_DHd2022.csv
+#
+
+DHd-Abstracts-2023:
+  url: https://github.com/DHd-Verband/DHd-Abstracts-2023
+  files: XML-files
+  package:
+    - DHd2023.csv
+#    - DHd2023_poster.csv
