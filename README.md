@@ -4,13 +4,13 @@
 **Ko-Autorenschaft: wer mit wem?**
  - results/coauthorship.xslx (Adjacency Matrix der AutorInnen)
  - results/coauthorship.gexf (Gephi)
+Graphvisualisierungen für gemeinsame Autorenschaft wurden in gephi erzeugt.
 
 
 **notebook/External Bibliographies (Citations Frequency and Recency).ipnyb**
+- Einlicke in meistzitierte Werke
 - Welche 10-20 Papers werden insgesamt am häufigsten zitiert?
     - results/top_external_citation.xlsx
--  Wie groß ist die Differenz zwischen dem durchschnittlichen Publikationsdatum der zitierten Papers und der jeweiligen DHd (werden vor allem alte oder vor allem sehr neue Papers zitiert?)
-  - Boxplots in the notebook
 
 
 **notebook/Cities and GeoVis.ipnyb**
@@ -19,7 +19,7 @@
  - results auch als gephi file: results/cocityship.gexf (Gephi)
  - results/geodata_publication.geojson (geopandas, geodata encoded)
 
-Kartenvisualisierungen im Notebook.
+Kartenvisualisierungen für AutorInnennetzwerke im Notebook.
 
 
 
