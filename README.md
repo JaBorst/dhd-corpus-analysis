@@ -10,9 +10,9 @@ In diesem Repository liegen Code und Daten für die Analyse der DHd-Abstracts 20
  - `results/coauthorship.gexf`: Gephi-lesbares Format
 
 **..und wo?**
-- `results/city-frequencies.xlsx`: Orte, mit zugehörigen Publicationszahlen
-- `results/cocityship.xlsx`: Ko-Ortschaft: welche Orte publizieren häufig zusammen
- - `results/cocityship.gexf`: Ergebnisse auch als als Gephi-lesbares Format´.
+- `results/city-frequencies.xlsx`: Orte, mit der zugehörigen Publikationshäufigkeit pro Jahr, (*_per_year.xlsx listet Publikationshäufigkeiten pro Jahr, *_overall.xlsx sind aggregierte Zahlen)
+- `results/cocityship.xlsx`: Ko-Ortschaft: welche Orte publizieren häufig zusammen (insgesamt)
+ - `results/cocityship.gexf`: Selbe Ergebnisse als als Gephi-lesbares Format´.
  - `results/geodata_publication.geojson`: (geopandas, geodata encoded)
    
 **Zitationen**
