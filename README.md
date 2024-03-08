@@ -28,6 +28,7 @@ In diesem Repository liegen Code und Daten für die Analyse der DHd-Abstracts 20
 ## Code
 
  - `main.py`: Der Code in `dhd` kann verwendet werden um das Korpus der Abstracts neu zu erstellen. Das Ausführen von `main.py` lädt die URLs aus CONFIG.yaml und extrahiert die Abstracts aus dem jeweiligen github Repository. Vielen Dank an https://github.com/DHd-Verband für das Bereitstellen der Abstracts.
+ - `requirements.txt`: Eine Liste der verwendeten Pakete, kann mit conda verwendet werden um ein zur Ausführung von main.py passendes Environment zu erzeugen.
 
 ## Additional Files
  - `results/cities.txt`: Liste von Städten, Mapping für die Affiliationen in den Daten mit alternativen Schreibweisen.
