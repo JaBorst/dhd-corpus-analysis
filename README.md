@@ -1,5 +1,7 @@
 
-# Results und Notebooks
+# Wer mit Wem... und Wo?
+
+## Ergebnisse und Notebooks
 
 **Ko-Autorenschaft: wer mit wem?**
  - `results/coauthorship.xslx` (Adjacency Matrix der AutorInnen)
