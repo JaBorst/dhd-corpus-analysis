@@ -16,7 +16,7 @@ In diesem Repository liegen Code und Daten für die Analyse der DHd-Abstracts 20
  - `results/geodata_publication.geojson`: (geopandas, geodata encoded)
    
 **Zitationen**
- - `results/top_external_citation.xlsx`
+ - `results/top_external_citation.xlsx`: Zitationen mit zugehörigen Häufigkeiten, siehe notebooks.
    
 
 
