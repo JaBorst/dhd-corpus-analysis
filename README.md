@@ -4,8 +4,8 @@
 ## Ergebnisse und Notebooks
 
 **Ko-Autorenschaft: wer mit wem?**
- - `results/coauthorship.xslx` (Adjacency Matrix der AutorInnen)
- - `results/coauthorship.gexf` (Gephi - readable)
+ - `results/coauthorship.xslx` (Adjacency-Matrix der AutorInnen)
+ - `results/coauthorship.gexf` (Gephi - lesbar)
 Graphvisualisierungen für gemeinsame Autorenschaft wurden in gephi erzeugt.
 
 
@@ -18,10 +18,10 @@ Graphvisualisierungen für gemeinsame Autorenschaft wurden in gephi erzeugt.
 **`notebook/Cities and GeoVis.ipnyb`**
 - `results/city-frequencies.xlsx`: Orte, wo wird am meisten publiziert 
 - `results/cocityship.xlsx`: Ko-Ortschaft: welche Orte publizieren häufig zusammen (je Jahr / insgesamt)
- - Ergebnisse auch als .gephi: `results/cocityship.gexf` (Gephi)
+ - Ergebnisse auch als als Gephi-lesbares Format: `results/cocityship.gexf` (Gephi)
  - `results/geodata_publication.geojson` (geopandas, geodata encoded)
 
-Kartenvisualisierungen für AutorInnennetzwerke im Notebook.
+Beispiele für Kartenvisualisierungen für AutorInnen-Netzwerke im Notebook.
 
 
 **`main.py`**
