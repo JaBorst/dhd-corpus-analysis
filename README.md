@@ -22,7 +22,7 @@ In diesem Repository liegen Code und Daten für die Analyse der DHd-Abstracts 20
 
 ## Visualisierungen
  - Graphvisualisierungen für gemeinsame Autorenschaft wurden in [Gephi](https://gephi.org/) erzeugt.
- - `notebook/citations.ipnyb`: Einlicke in meistzitierte Arbeiten, welche 10-20 Papers werden insgesamt am häufigsten zitiert?
+ - `notebook/citations.ipnyb`: Einlicke in meistzitierte Arbeiten, welche Papers werden insgesamt am häufigsten zitiert?
  - `notebook/Cities and GeoVis.ipnyb`: Beispiele für Kartenvisualisierungen für AutorInnen-Netzwerke.
 
 ## Code
