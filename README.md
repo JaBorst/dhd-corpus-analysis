@@ -22,6 +22,11 @@ Graphvisualisierungen für gemeinsame Autorenschaft wurden in gephi erzeugt.
 Kartenvisualisierungen für AutorInnennetzwerke im Notebook.
 
 
+**`main.py`**
+Der Code in `dhd` kann verwendet werden um das Korpus der Abstracts neu zu erstellen.
+Das Ausführen von `main.py` lädt die URLs aus CONFIG.yaml und extrahiert die Abstracts aus dem jeweiligen github Repository.
+Vielen Dank an https://github.com/DHd-Verband.
+
 
 **Additional Files**
  - cities.txt : Liste von Städten, Lookup für die Affiliationen in then Daten mit alternativen Schreibweisen.
